@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, my name is Seth Martin. I'm a Fullstack/Backend Engineer and multifaceted devloper, working in a variety of languages and development environments.
+
+Here are some of my projects:
+- 2 player Othello with game playing AI: https://github.com/UnseelieDad/Othello-AI
+- Machine Learning AI that recognizes hadwritten numbers implemented from scratch: https://github.com/UnseelieDad/Senior-Capstone-Lost-and-Found
+- Cryptography algorithm implementations: https://github.com/UnseelieDad/Applied-Cryptography
+
+🌱 I’m currently learning Rust
 
 <!--
 **UnseelieDad/UnseelieDad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
